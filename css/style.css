@@ -28,6 +28,8 @@ h1 {
 	border: 1px solid black;
 	padding:0 15px;
 	position:relative;
+	height:175px;
+	overflow:hidden;
 }
 
 div > p {
